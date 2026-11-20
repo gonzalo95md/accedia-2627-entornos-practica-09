@@ -1,4 +1,4 @@
-# Práctica 09 · principal
+# Práctica 09
 
 ## Qué es
 Práctica integradora de Git: ramas, conflicto, .gitignore y fichero colado por error.
